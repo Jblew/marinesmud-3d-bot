@@ -1,0 +1,10 @@
+nbproject/
+build/
+target/
+.svn/
+.hg/
+tags/
+trunk/
+wiki/
+*.swp
+*~
