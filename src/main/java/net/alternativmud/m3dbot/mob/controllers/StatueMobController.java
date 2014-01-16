@@ -28,7 +28,7 @@ public class StatueMobController extends MobController {
         }
         lastTickTime = currentTime;
         
-        rotY += deltaTime;
+        rotY += deltaTime*20;
         setRotation(rotX, rotY, rotZ);
     }
 
