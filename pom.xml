@@ -55,7 +55,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>net.alternativmud.App</mainClass>
+                            <mainClass>net.alternativmud.m3dbot.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
